@@ -1,2 +1,2 @@
-# lab-1-esa
-Application with common JavaEE architecture
+# Practical Work 1 - Application with common JavaEE architecture
+
